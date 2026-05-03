@@ -1,0 +1,46 @@
+body{
+    background-color: orangered;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lightgreen;
+
+}
+
+.highlight{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+    font-size: x-large;
+}
+
+.Bigtext{
+    color: black;
+    font-size: 50px;
+}
+
+section{
+    color: black;
+}
+
+a{
+    background-color :yellow ;
+}
+
+ol li:nth-child(2) p {
+    color: blue;
+}
+
+ol li:nth-child(3) p {
+    color: red;
+}
